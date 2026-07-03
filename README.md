@@ -6,7 +6,7 @@
 
 ## 🚀 Live Demo
 
-🔗 https://YOUR-NETLIFY-LINK.netlify.app
+🔗 https://friday-ai-assistantt.netlify.app/
 
 ---
 
